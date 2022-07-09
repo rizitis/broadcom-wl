@@ -16,6 +16,6 @@ blacklist bcma
 blacklist b43
 blacklist brcmsmac
 
-After installtion dont forget to 
+After installation finish, dont forget to 
 # modprobe wl 
   reboot
