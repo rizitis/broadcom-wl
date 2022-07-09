@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+           |-----handy-ruler------------------------------------------------------|
+broadcom-wl: broadcom-wl (hybrid wireless driver (64-bit))
+broadcom-wl:
+broadcom-wl: **Patched for Linux >= 4.7**
+broadcom-wl: Tested on a BCM4360-based 802.11ac Wireless Network Adapter 
+broadcom-wl: (TP-LINK Archer T8E) and on a Broadcom Inc. and subsidiaries 
+broadcom-wl: BCM4321 802.11a/b/g/n [14e4:4328] (rev 03).
+broadcom-wl: 
+broadcom-wl:
+broadcom-wl: 
+broadcom-wl: https://github.com/antoineco/broadcom
+broadcom-wl:
